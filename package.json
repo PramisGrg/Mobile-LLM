@@ -3,6 +3,7 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "dependencies": {
+    "@shopify/react-native-skia": "^2.6.8",
     "expo": "~56.0.12",
     "expo-asset": "^56.0.17",
     "expo-build-properties": "~1.0.9",
